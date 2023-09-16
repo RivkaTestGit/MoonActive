@@ -55,34 +55,44 @@ To start using this API and UI Test Infrastructure for your project, follow thes
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/api-ui-test-infrastructure.git
+   git clone https://github.com/RivkaTestGit/MoonActive.git
    
 2. Navigate to the project directory and create venv to install dependencies:
    For Windows:
-      ```bash
-        python -m venv venv
+   
+   ```bash
+   python -m venv venv
 
    For macOS:
-      ```bash
-      python3 -m venv venv
-3. Activate the virtual environment:
+   
+   ```bash
+   python3 -m venv venv
+   
+4. Activate the virtual environment:
   For Windows:
+
    ```bash
    venv\Scripts\activate
+   
    For macOS:
+   
    ```bash
    source venv/bin/activate
 
-4. Install project dependencies:
+6. Install project dependencies:
+   ```bash
    pip install -r requirements.txt
 
-5. Run tests:
-   API tests:
-   navigate to the backend folder and run:
+8. Run tests:
+   - API tests:
+     - navigate to the backend folder and run:
+   
     ```bash
     pytest
-  UI tests:
-   navigate to the FRON folder and run:
+    
+  - UI tests:
+    - navigate to the FRON folder and run:
+      
     ```bash
     pytest
    
