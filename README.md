@@ -59,26 +59,26 @@ To start using this API and UI Test Infrastructure for your project, follow thes
    ```
 
 2. Navigate to the project directory and create venv to install dependencies:
-For Windows:
+  For Windows:
 
   ```bash
   python -m venv venv
   ```
 
-For macOS:
+  For macOS:
 
   ```bash
   python3 -m venv venv
   ```
 
 3. Activate the virtual environment:
-For Windows:
+  For Windows:
 
   ```bash
   venv\Scripts\activate
   ```
 
-For macOS:
+  For macOS:
 
   ```bash
   source venv/bin/activate
@@ -90,13 +90,13 @@ For macOS:
    ```
 
 5. Run tests:
-API tests - navigate to the backend folder and run:
+  API tests - navigate to the backend folder and run:
  
   ```bash
   pytest
   ```
 
-UI tests - navigate to the FRON folder and run:
+  UI tests - navigate to the FRON folder and run:
   ```bash
   pytest
   ```
