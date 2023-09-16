@@ -22,7 +22,7 @@ The `backend` directory contains the core components for API testing.
   - `assertions.py`: Custom assertion functions for test validations.
   - `helpers.py`: Utility functions to assist with testing.
 
-### UI Testing (front)
+###  `UI Testing (front)`
 
 The `front` directory contains the components for UI testing.
 
@@ -69,12 +69,12 @@ To start using this API and UI Test Infrastructure for your project, follow thes
    python3 -m venv venv
    
 4. Activate the virtual environment:
-- For Windows:
+For Windows:
 
    ```bash
    venv\Scripts\activate
-   
-  - For macOS:
+
+For macOS:
    
    ```bash
    source venv/bin/activate
@@ -84,14 +84,12 @@ To start using this API and UI Test Infrastructure for your project, follow thes
    pip install -r requirements.txt
 
 8. Run tests:
-   - API tests:
-   navigate to the backend folder and run:
+API tests - navigate to the backend folder and run:
    
     ```bash
     pytest
-    
-  - UI tests:
-  navigate to the FRON folder and run:
+  
+  UI tests - navigate to the FRON folder and run:
       
     ```bash
     pytest
