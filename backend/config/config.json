@@ -1,0 +1,5 @@
+{
+    "base_url": {
+        "pet_api": "https://petstore.swagger.io/v2"
+    }
+}
