@@ -58,7 +58,8 @@ To start using this API and UI Test Infrastructure for your project, follow thes
    git clone https://github.com/RivkaTestGit/MoonActive.git
    ```
 
-2. Navigate to the project directory and create venv to install dependencies:
+2. Navigate to the project directory and create venv to install dependencies
+
   For Windows:
 
   ```bash
