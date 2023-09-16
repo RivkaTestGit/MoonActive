@@ -66,23 +66,23 @@ For Windows:
   ```
 
 For macOS:
-  
-```bash
-python3 -m venv venv
-```
+
+  ```bash
+  python3 -m venv venv
+  ```
 
 3. Activate the virtual environment:
 For Windows:
 
-```bash
-venv\Scripts\activate
-```
+  ```bash
+  venv\Scripts\activate
+  ```
 
 For macOS:
 
-```bash
-source venv/bin/activate
-```
+  ```bash
+  source venv/bin/activate
+  ```
 
 4. Install project dependencies:
    ```bash
@@ -92,13 +92,13 @@ source venv/bin/activate
 5. Run tests:
 API tests - navigate to the backend folder and run:
  
-```bash
-pytest
-```
+  ```bash
+  pytest
+  ```
 
 UI tests - navigate to the FRON folder and run:
-```bash
-pytest
-```
+  ```bash
+  pytest
+  ```
 
 
