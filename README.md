@@ -1,7 +1,8 @@
 # Automation Engineer MoonActive Home Assignment
 
 Welcome to the  MoonActive Home Assignment :)
-The project is organized into several directories and files to keep both API abd UI testing efforts well-structured and maintainable:
+
+This project is organized into several directories and files to keep both API abd UI testing efforts well-structured and maintainable:
 
 ### `backend`
 
