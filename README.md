@@ -64,26 +64,25 @@ To start using this API and UI Test Infrastructure for your project, follow thes
    python -m venv venv
 
 - For macOS:
-   
    ```bash
    python3 -m venv venv
-   
-4. Activate the virtual environment:
-For Windows:
+
+3. Activate the virtual environment:
+   For Windows:
 
    ```bash
    venv\Scripts\activate
 
-For macOS:
+   For macOS:
    
    ```bash
    source venv/bin/activate
 
-6. Install project dependencies:
+4. Install project dependencies:
    ```bash
    pip install -r requirements.txt
 
-8. Run tests:
+5. Run tests:
 API tests - navigate to the backend folder and run:
    
     ```bash
